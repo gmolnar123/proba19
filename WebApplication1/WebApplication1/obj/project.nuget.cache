@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6PP3rA6+baw0c/sfr0lmhAU9JbJ8NAmjARXNR3yb4Yf1jTPank1Vu3BfO8LFJkoIc/L3U7FGsEqyNVxTUUebqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geza_local\\source\\repos\\proba19\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geza_local\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
